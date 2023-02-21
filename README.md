@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning Computer Science
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yorrananCosta)](https://github.com/yorrananCosta/github-readme-stats)
-
 <!--
 **yorrananCosta/yorrananCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
